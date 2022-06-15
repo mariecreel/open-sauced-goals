@@ -1,27 +1,27 @@
 [
   {
     "full_name": "elastic/kibana",
-    "stargazers_count": 17561,
+    "stargazers_count": 17571,
     "open_issues_count": 9871,
-    "forks_count": 7268
+    "forks_count": 7269
   },
   {
     "full_name": "mozilla/pdf.js",
-    "stargazers_count": 38866,
-    "open_issues_count": 362,
-    "forks_count": 8824
+    "stargazers_count": 38914,
+    "open_issues_count": 373,
+    "forks_count": 8831
   },
   {
     "full_name": "express-validator/express-validator",
-    "stargazers_count": 5463,
+    "stargazers_count": 5466,
     "open_issues_count": 103,
     "forks_count": 568
   },
   {
     "full_name": "validatorjs/validator.js",
-    "stargazers_count": 19663,
-    "open_issues_count": 256,
-    "forks_count": 1936
+    "stargazers_count": 19679,
+    "open_issues_count": 262,
+    "forks_count": 1941
   },
   {
     "full_name": "philippederyck/mooc-websecurity-beersafe-3T2017",
@@ -31,27 +31,27 @@
   },
   {
     "full_name": "github/vscode-codeql-starter",
-    "stargazers_count": 286,
+    "stargazers_count": 287,
     "open_issues_count": 1,
-    "forks_count": 148
+    "forks_count": 149
   },
   {
     "full_name": "ossu/computer-science",
-    "stargazers_count": 115376,
-    "open_issues_count": 16,
-    "forks_count": 15712
+    "stargazers_count": 117119,
+    "open_issues_count": 13,
+    "forks_count": 15821
   },
   {
     "full_name": "OWASP/CheatSheetSeries",
-    "stargazers_count": 20850,
-    "open_issues_count": 42,
-    "forks_count": 2975
+    "stargazers_count": 20881,
+    "open_issues_count": 28,
+    "forks_count": 2979
   },
   {
     "full_name": "OWASP/www-project-top-ten",
-    "stargazers_count": 712,
+    "stargazers_count": 714,
     "open_issues_count": 16,
-    "forks_count": 186
+    "forks_count": 188
   },
   {
     "full_name": "edgecase/ruby_koans",
@@ -61,49 +61,49 @@
   },
   {
     "full_name": "tsiege/Tech-Interview-Cheat-Sheet",
-    "stargazers_count": 3028,
+    "stargazers_count": 3039,
     "open_issues_count": 9,
-    "forks_count": 825
+    "forks_count": 826
   },
   {
     "full_name": "neovim/neovim",
-    "stargazers_count": 54293,
-    "open_issues_count": 1491,
-    "forks_count": 3885
+    "stargazers_count": 54400,
+    "open_issues_count": 1477,
+    "forks_count": 3888
   },
   {
     "full_name": "auth0/express-openid-connect",
-    "stargazers_count": 281,
-    "open_issues_count": 2,
+    "stargazers_count": 282,
+    "open_issues_count": 4,
     "forks_count": 93
   },
   {
     "full_name": "kanaka/mal",
-    "stargazers_count": 8688,
+    "stargazers_count": 8696,
     "open_issues_count": 44,
-    "forks_count": 2085
+    "forks_count": 2088
   },
   {
     "full_name": "forem/forem",
-    "stargazers_count": 19227,
-    "open_issues_count": 521,
-    "forks_count": 3383
+    "stargazers_count": 19251,
+    "open_issues_count": 517,
+    "forks_count": 3389
   },
   {
     "full_name": "woodrush/lisp-in-life",
-    "stargazers_count": 374,
+    "stargazers_count": 376,
     "open_issues_count": 0,
     "forks_count": 5
   },
   {
     "full_name": "LuisMayo/ace-attorney-twitter-bot",
-    "stargazers_count": 505,
+    "stargazers_count": 509,
     "open_issues_count": 22,
     "forks_count": 38
   },
   {
     "full_name": "gitname/react-gh-pages",
-    "stargazers_count": 3418,
+    "stargazers_count": 3432,
     "open_issues_count": 29,
     "forks_count": 589
   }
