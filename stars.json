@@ -1,27 +1,27 @@
 [
   {
     "full_name": "elastic/kibana",
-    "stargazers_count": 17628,
-    "open_issues_count": 9907,
-    "forks_count": 7296
+    "stargazers_count": 17636,
+    "open_issues_count": 9921,
+    "forks_count": 7299
   },
   {
     "full_name": "mozilla/pdf.js",
-    "stargazers_count": 39122,
+    "stargazers_count": 39167,
     "open_issues_count": 368,
-    "forks_count": 8876
+    "forks_count": 8885
   },
   {
     "full_name": "express-validator/express-validator",
-    "stargazers_count": 5493,
-    "open_issues_count": 104,
+    "stargazers_count": 5499,
+    "open_issues_count": 103,
     "forks_count": 567
   },
   {
     "full_name": "validatorjs/validator.js",
-    "stargazers_count": 19782,
+    "stargazers_count": 19810,
     "open_issues_count": 263,
-    "forks_count": 1952
+    "forks_count": 1953
   },
   {
     "full_name": "philippederyck/mooc-websecurity-beersafe-3T2017",
@@ -37,19 +37,19 @@
   },
   {
     "full_name": "ossu/computer-science",
-    "stargazers_count": 118595,
-    "open_issues_count": 8,
-    "forks_count": 15969
+    "stargazers_count": 119116,
+    "open_issues_count": 6,
+    "forks_count": 16010
   },
   {
     "full_name": "OWASP/CheatSheetSeries",
-    "stargazers_count": 21036,
-    "open_issues_count": 17,
-    "forks_count": 3012
+    "stargazers_count": 21062,
+    "open_issues_count": 19,
+    "forks_count": 3013
   },
   {
     "full_name": "OWASP/www-project-top-ten",
-    "stargazers_count": 727,
+    "stargazers_count": 731,
     "open_issues_count": 16,
     "forks_count": 191
   },
@@ -61,33 +61,33 @@
   },
   {
     "full_name": "tsiege/Tech-Interview-Cheat-Sheet",
-    "stargazers_count": 3069,
+    "stargazers_count": 3078,
     "open_issues_count": 9,
-    "forks_count": 834
+    "forks_count": 839
   },
   {
     "full_name": "neovim/neovim",
-    "stargazers_count": 55323,
-    "open_issues_count": 1474,
-    "forks_count": 3930
+    "stargazers_count": 55422,
+    "open_issues_count": 1487,
+    "forks_count": 3940
   },
   {
     "full_name": "auth0/express-openid-connect",
-    "stargazers_count": 292,
+    "stargazers_count": 294,
     "open_issues_count": 4,
-    "forks_count": 94
+    "forks_count": 95
   },
   {
     "full_name": "kanaka/mal",
-    "stargazers_count": 8726,
+    "stargazers_count": 8734,
     "open_issues_count": 44,
-    "forks_count": 2097
+    "forks_count": 2100
   },
   {
     "full_name": "forem/forem",
-    "stargazers_count": 19316,
-    "open_issues_count": 518,
-    "forks_count": 3412
+    "stargazers_count": 19325,
+    "open_issues_count": 504,
+    "forks_count": 3417
   },
   {
     "full_name": "woodrush/lisp-in-life",
@@ -97,14 +97,14 @@
   },
   {
     "full_name": "LuisMayo/ace-attorney-twitter-bot",
-    "stargazers_count": 518,
+    "stargazers_count": 521,
     "open_issues_count": 22,
     "forks_count": 38
   },
   {
     "full_name": "gitname/react-gh-pages",
-    "stargazers_count": 3528,
+    "stargazers_count": 3544,
     "open_issues_count": 30,
-    "forks_count": 599
+    "forks_count": 598
   }
 ]
